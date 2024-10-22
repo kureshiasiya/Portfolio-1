@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
-  "scripts": {
+  "homepage": "http://kureshiasiya.github.io/Portfolio-1",
+    "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+   "build-gh": "parcel build --public-url 'https://kureshiasiya.github.io/Portfolio-1'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+     "url": "git+https://github.com/kureshiasiya/Portfolio-1.git"
   },
   "author": "Microsoft",
   "license": "ISC",
